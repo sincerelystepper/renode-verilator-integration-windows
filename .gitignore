@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.a
+*.vcd
+*.log
+obj_dir/
+hdl/includes/renode_action_enumerators.svh
+src/communication/communication_channel.h
